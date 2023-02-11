@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Hotel_Management_System
+{
+    internal class Guest
+    {
+        // Attributes for Guest Class
+        public string? Name { get; set; }
+        public string? PassportNum { get; set; }
+        public Stay? HotelStay { get; set; }
+        public Membership? Member { get; set; }
+        public bool? IsCheckedIn { get; set; }
+
+        // Constructors for Guest Class
+        public Guest() { }
+
+        public Guest(string? name, string? passportNum, Stay? hotelStay, Membership? member)
+        {
+            this.Name = name;
+            this.PassportNum = passportNum;
+            this.HotelStay = hotelStay;
+            this.Member = member;
+            this.IsCheckedIn = false;
+        }
+
+        // Methods for Guest Class
+        public override string ToString()
+        {
+            return $"{this.Name,-8} {this.PassportNum,-15} {this.Member}\t\t {this.IsCheckedIn}";
+        }
+
+    }
+}

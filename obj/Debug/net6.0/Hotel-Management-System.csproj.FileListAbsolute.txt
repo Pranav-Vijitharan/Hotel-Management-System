@@ -1,0 +1,15 @@
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\bin\Debug\net6.0\Hotel-Management-System.exe
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\bin\Debug\net6.0\Hotel-Management-System.deps.json
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\bin\Debug\net6.0\Hotel-Management-System.runtimeconfig.json
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\bin\Debug\net6.0\Hotel-Management-System.dll
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\bin\Debug\net6.0\Hotel-Management-System.pdb
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\obj\Debug\net6.0\Hotel-Management-System.csproj.AssemblyReference.cache
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\obj\Debug\net6.0\Hotel-Management-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\obj\Debug\net6.0\Hotel-Management-System.AssemblyInfoInputs.cache
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\obj\Debug\net6.0\Hotel-Management-System.AssemblyInfo.cs
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\obj\Debug\net6.0\Hotel-Management-System.csproj.CoreCompileInputs.cache
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\obj\Debug\net6.0\Hotel-Management-System.dll
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\obj\Debug\net6.0\refint\Hotel-Management-System.dll
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\obj\Debug\net6.0\Hotel-Management-System.pdb
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\obj\Debug\net6.0\Hotel-Management-System.genruntimeconfig.cache
+C:\Pranav\Year1\Semester 2\Hotel-Management-System\Hotel-Management-System\obj\Debug\net6.0\ref\Hotel-Management-System.dll
